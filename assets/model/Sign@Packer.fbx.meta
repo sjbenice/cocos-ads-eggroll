@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "daca97fa-a4f0-4da6-8cb3-9bec87023850",
+  "files": [],
+  "subMetas": {
+    "25fc5": {
+      "importer": "gltf-mesh",
+      "uuid": "daca97fa-a4f0-4da6-8cb3-9bec87023850@25fc5",
+      "displayName": "",
+      "id": "25fc5",
+      "name": "PackAssets_cart.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 9100
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "41a9c": {
+      "importer": "gltf-material",
+      "uuid": "daca97fa-a4f0-4da6-8cb3-9bec87023850@41a9c",
+      "displayName": "",
+      "id": "41a9c",
+      "name": "m_packassets_cart.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c399e": {
+      "importer": "gltf-scene",
+      "uuid": "daca97fa-a4f0-4da6-8cb3-9bec87023850@c399e",
+      "displayName": "",
+      "id": "c399e",
+      "name": "Sign@Packer.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "daca97fa-a4f0-4da6-8cb3-9bec87023850@25fc5"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "daca97fa-a4f0-4da6-8cb3-9bec87023850@41a9c"
+      ],
+      "scenes": [
+        "daca97fa-a4f0-4da6-8cb3-9bec87023850@c399e"
+      ]
+    }
+  }
+}

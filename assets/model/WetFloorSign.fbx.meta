@@ -1,0 +1,198 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "95deeb05-1247-4cff-b9cf-afd261a22215",
+  "files": [],
+  "subMetas": {
+    "ca6a8": {
+      "importer": "gltf-mesh",
+      "uuid": "95deeb05-1247-4cff-b9cf-afd261a22215@ca6a8",
+      "displayName": "",
+      "id": "ca6a8",
+      "name": "wet_floor_sign.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 504
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "82deb": {
+      "importer": "gltf-material",
+      "uuid": "95deeb05-1247-4cff-b9cf-afd261a22215@82deb",
+      "displayName": "",
+      "id": "82deb",
+      "name": "Yellow.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c04f0": {
+      "importer": "gltf-scene",
+      "uuid": "95deeb05-1247-4cff-b9cf-afd261a22215@c04f0",
+      "displayName": "",
+      "id": "c04f0",
+      "name": "WetFloorSign.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "95deeb05-1247-4cff-b9cf-afd261a22215@ca6a8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "95deeb05-1247-4cff-b9cf-afd261a22215@82deb"
+      ],
+      "scenes": [
+        "95deeb05-1247-4cff-b9cf-afd261a22215@c04f0"
+      ]
+    },
+    "materials": {
+      "95deeb05-1247-4cff-b9cf-afd261a22215@82deb": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "c8f66d17-351a-48da-a12c-0212d28575c4",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainColor": {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 206,
+              "b": 49,
+              "a": 255
+            },
+            "roughness": 0,
+            "emissive": {
+              "__type__": "cc.Color",
+              "r": 160,
+              "g": 26,
+              "b": 26,
+              "a": 255
+            }
+          },
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

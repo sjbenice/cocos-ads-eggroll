@@ -1,0 +1,192 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "05c711c0-9410-494d-aa78-c8f93e8bea70",
+  "files": [],
+  "subMetas": {
+    "b3235": {
+      "importer": "gltf-mesh",
+      "uuid": "05c711c0-9410-494d-aa78-c8f93e8bea70@b3235",
+      "displayName": "",
+      "id": "b3235",
+      "name": "conver_1.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 816
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b5c6": {
+      "importer": "gltf-material",
+      "uuid": "05c711c0-9410-494d-aa78-c8f93e8bea70@5b5c6",
+      "displayName": "",
+      "id": "5b5c6",
+      "name": "Belt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2917a": {
+      "importer": "gltf-scene",
+      "uuid": "05c711c0-9410-494d-aa78-c8f93e8bea70@2917a",
+      "displayName": "",
+      "id": "2917a",
+      "name": "conveyer.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "05c711c0-9410-494d-aa78-c8f93e8bea70@b3235"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "05c711c0-9410-494d-aa78-c8f93e8bea70@5b5c6"
+      ],
+      "scenes": [
+        "05c711c0-9410-494d-aa78-c8f93e8bea70@2917a"
+      ]
+    },
+    "materials": {
+      "05c711c0-9410-494d-aa78-c8f93e8bea70@5b5c6": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "c8f66d17-351a-48da-a12c-0212d28575c4",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainColor": {
+              "__type__": "cc.Color",
+              "r": 111,
+              "g": 119,
+              "b": 107,
+              "a": 255
+            },
+            "roughness": 0,
+            "specularIntensity": 0
+          },
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}
